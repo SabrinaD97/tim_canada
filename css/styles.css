@@ -161,7 +161,8 @@ header {
 
 /* ===== Numéro 5f ===== */
 .athlete1 {
-
+    grid-column-end: span 2;
+    grid-row-end: span 2;
 }
 
 
